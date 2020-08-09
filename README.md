@@ -1,5 +1,5 @@
 # OTD
-Ontology on Traditional Dances
+Ontology on Traditional Dances (OTD): 
 This Ontology is designed to preserve the knowledge base of traditional dances.
 Traditional dances being an amalgamation of social customs, cultural rituals, religious
 beliefs, and lifestyles of different communities; an ontology-based structured schema
