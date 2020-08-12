@@ -4,6 +4,7 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
+     rdf:RDF="https://www.w3.org/TR/rdf-syntax-grammar/"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:otd1="http://www.semanticweb.org/deep/ontologies/2018/4/otd#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
