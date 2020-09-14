@@ -1,0 +1,1 @@
+This repostiory is protected under CC-BY-NC-ND (4.0) license.
