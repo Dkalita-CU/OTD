@@ -7,3 +7,4 @@ for its knowledge base shall be quite useful. The ontology would streamline the
 documentation process about the various aspects of dances, facilitating collaborative
 research, and can work as a one-stop point for smart information retrieval about any
 traditional dance.
+The ontology specification document is available at https://dkalita-cu.github.io/OTDspec/
