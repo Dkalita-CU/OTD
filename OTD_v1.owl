@@ -5,14 +5,13 @@
      xmlns:terms="http://purl.org/dc/terms/"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
-     xmlns:otd1="http://www.semanticweb.org/deep/ontologies/2018/4/otd#"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:foaf="http://xmlns.com/foaf/0.1/"
      xmlns:otd="https://dkalita-cu.github.io/OTDspec/#"
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <owl:Ontology rdf:about="https://dkalita-cu.github.io/OTDspec/">
-        <otd1:competancyQuestion xml:lang="en">CQs are natural language questions relating to the ontology scope and can be considered as a functional requirement which a developed ontology should be able to answer (Uschold and Gruninger, 1996). Ontology validation via CQ based SPARQL querries is a suggested practice in many methodologies (Wiśniewski et al, 2019).
+        <otd:competancyQuestion xml:lang="en">CQs are natural language questions relating to the ontology scope and can be considered as a functional requirement which a developed ontology should be able to answer (Uschold and Gruninger, 1996). Ontology validation via CQ based SPARQL querries is a suggested practice in many methodologies (Wiśniewski et al, 2019).
 
 CQ 1: Name of different traditional dances of different communities?
 CQ 2: Related festivals to a particular traditional dance.
@@ -33,7 +32,7 @@ Dipen Deka,
 Department of Library and Information Science,
 Gauhati University, Guwahati, Assam, India.</terms:creator>
         <terms:title xml:lang="en">Ontology for the knowledge base of traditional dances</terms:title>
-        <terms:license xml:lang="en">https://creativecommons.org/licenses/by/4.0/</terms:license>
+        <terms:license xml:lang="en">https://creativecommons.org/licenses/by-sa/4.0/</terms:license>
         <terms:abstract xml:lang="en">Traditional dances are single source output of various socio-cultural, socio-economic, socio-religious activities of various communities and the accumulated knowledge base of traditional dances can serve various information need of a diverse population. The proposd ontology here on traditional dances would create a scalable abstract system for the socio-cultural elements associated with traditional dances. This would facilitate information search at various levels with various use intention. For example, a fashion blogger might search for information about traditional dresses associated with particular traditional dances of a specific community while a textile expert may wish to know about the detailed pattern of their preparation. Same information might also be sought for by a dancer while recreating the dances. Again a musician/an archaeologist might look for information about the instruments used in the dance performances. Logical knowledge inferencing property would make the knowledge base usable for third party application like lifestyle based e-commerce sites, e-learning platforms etc.</terms:abstract>
     </owl:Ontology>
     
